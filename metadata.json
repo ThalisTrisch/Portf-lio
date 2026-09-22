@@ -1,0 +1,6 @@
+{
+  "name": "Portfólio - Thalis Trisch",
+  "description": "Portfólio minimalista e interativo de Thalis Trisch com projetos em destaque, habilidades e contatos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
